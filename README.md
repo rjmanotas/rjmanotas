@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Me aventuré hace poco más de tres años en las Tecnologías de la Información y telecomunicaciones, en medio de la crisis de la pandemia del COVID-19 y a la mitad de mi carrera como analista de sistemas. Me apasiona el análisis y gestión de de datos y Data Science, así como el desarrollo de Software basado en la nube, inteligencia artificial, desarrollo de páginas y sitios web responsivos.
+Estoy en la búsqueda constante de la evolución de mis habilidades y de ampliar mis conocimientos como analista y desarrollador web.
