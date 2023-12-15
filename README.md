@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Mi aventura en el mundo de las Tecnologías de la Información y telecomunicaciones comenzó hace poco más de tres años, en medio de la crisis de la pandemia del COVID-19 y a la mitad de mis estudios en análisis y desarrollo de sistemas de información. Me apasiona el análisis y gestión de de datos y Data Science, el desarrollo de Software basado en la nube, inteligencia artificial y desarrollo web responsivo.
-Estoy en la búsqueda constante de la evolución de mis habilidades y de ampliar mis conocimientos como especialista en soporte tecnico en IT, QA y analisis de datos.
+Estoy en la búsqueda constante de la evolución de mis habilidades y de ampliar mis conocimientos como especialista en soporte tecnico en IT, QA y análisis de datos.
